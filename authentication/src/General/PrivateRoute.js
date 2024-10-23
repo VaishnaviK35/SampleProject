@@ -9,6 +9,7 @@ export const PrivateRoute = () => {
         return <Navigate to='/login'/>
     }
     console.log("private route");
+    console.log("124");
     return (
         <>
             <Navbar />
