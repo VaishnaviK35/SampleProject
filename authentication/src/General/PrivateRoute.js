@@ -8,6 +8,7 @@ export const PrivateRoute = () => {
     if(!login){
         return <Navigate to='/login'/>
     }
+    
     return (
         <>
             <Navbar />
