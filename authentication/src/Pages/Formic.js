@@ -24,12 +24,6 @@ export const Formic = () => {
             }
             return errors;
         },
-        // validateOnChange: (values) => {
-        //     console.log('values on change: ',values);
-        // },
-        // validateOnBlur: (values) => {
-        //     console.log('values on blur: ',values);
-        // }
     });
 
     return(
