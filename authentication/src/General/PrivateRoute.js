@@ -10,6 +10,7 @@ export const PrivateRoute = () => {
     }
     console.log("private route");
     console.log("124");
+    console.log("124 54484");
     return (
         <>
             <Navbar />
